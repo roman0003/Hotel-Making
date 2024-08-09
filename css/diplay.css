@@ -1,0 +1,16 @@
+.hotels-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hotel {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.hotel h2 {
+    margin-top: 0;
+}
